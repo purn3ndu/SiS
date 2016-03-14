@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Short is Sweet</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">1480434552284981</string>
+    <string name="title_activity_welcome">Welcome</string>
+    <string name="welcome_q">What would you like for a learning snack now?</string>
+    <string name="app_logo_descriptor">Short is Sweet application logo</string>
+    <string name="DiffLevel">Difficulty Level:</string>
+
+    <string-array name="difficulty_level">
+        <item>Beginner</item>
+        <item>Advanced</item>
+
+    </string-array>
+    <string name="title_activity_show_study_materials">ShowStudyMaterials</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
+
+
